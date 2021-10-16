@@ -1,0 +1,15 @@
+{
+  "name": "phpfunction/postermaker",
+  "autoload": {
+    "psr-4": {
+      "Phpfunction\\PosterMaker\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "coffee",
+      "email": "164589895@qq.com"
+    }
+  ],
+  "require": {}
+}
