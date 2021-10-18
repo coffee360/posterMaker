@@ -1,15 +1,19 @@
 {
   "name": "phpfunction/postermaker",
-  "autoload": {
-    "psr-4": {
-      "Phpfunction\\PosterMaker\\": "src/"
-    }
-  },
+  "description": "postermaker",
+  "license": "MIT",
   "authors": [
     {
-      "name": "coffee",
+      "name": "phpfunction",
       "email": "164589895@qq.com"
     }
   ],
-  "require": {}
+  "require": {
+    "php": ">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "PosterMaker\\": "src/"
+    }
+  }
 }
