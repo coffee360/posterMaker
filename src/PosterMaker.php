@@ -1,5 +1,5 @@
 <?php
-namespace PosterMaker;
+namespace Phpfunction\Postermaker;
 class PosterMaker
 {
     public $bg; // 背景图
